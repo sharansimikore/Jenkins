@@ -15,3 +15,5 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > \
   
   
  Note: The same commands are used to install on linux operating system by replacing 'apt' with 'yum' 
+ 
+ 
