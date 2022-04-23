@@ -27,5 +27,12 @@ pipeline {
                 echo 'Deploy on prod'
             }
         }
+        
+        stage('Monitorning') {
+            steps {
+                echo 'Monitorning'
+            }
+        }
+        
     }
 }
